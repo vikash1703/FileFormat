@@ -1,0 +1,9 @@
+Spring Boot is a module of the Spring framework that helps developers package Spring-based applications with sensible defaults. It's a Java-based framework that can help developers quickly create apps without the complexity of the Spring Framework. Here are some of the features of Spring Boot: 
+REST APIs
+Spring Boot makes it easy to create and maintain REST endpoints. Developers can use the @RestController and @RequestMapping(/endPoint) annotations over the controller class to create a REST API. 
+Microservices
+Spring Boot's modular architecture allows developers to break down their applications into smaller, self-contained services. This makes it easier to scale individual microservices based on their usage patterns and demands. 
+Auto-configuration
+Spring Boot can automatically configure a Spring application based on the jar dependencies that have been added. For example, if HSQLDB is on the classpath, Spring Boot will auto-configure an in-memory database. 
+Integration
+Spring Boot can integrate with a wide range of technologies, including databases, messaging systems, and caching providers.
